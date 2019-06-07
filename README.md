@@ -15,6 +15,6 @@ Erica Wheeler of the Fever and Brittany Boyd of the Liberty led the game with si
 
 The following shows assist networks for the 6/5/19 NBA Finals contest between the Toronto Raptors and the Golden State Warriors.
 
-![](images/Raptors.png)
+![](images/raptors.png)
 
 The Raptors had 30 assists, nine of which came from Kyle Lowry.
